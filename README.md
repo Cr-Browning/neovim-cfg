@@ -63,7 +63,7 @@ nvim/
 
 1. Clone this repository to your Neovim config directory:
    ```bash
-   git clone <repository-url> ~/.config/nvim
+   git clone https://github.com/Cr-Browning/neovim-cfg ~/.config/nvim
    ```
 
 2. Start Neovim and let lazy.nvim install the plugins:
